@@ -6,9 +6,6 @@ import { Lista, Banner } from "./components";
 function App() {
   return (
     <div className="App">
-      <nav className="banner">
-        <Banner />
-      </nav>
       <div className="contenedor">
         <div className="tareas-principal">
           <h1>Mis tareas</h1>
