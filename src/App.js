@@ -1,5 +1,5 @@
 import "./App.css";
-import { Lista, Banner } from "./components";
+import { Lista } from "./components";
 
 //Falta hacer que los elementos se sigan manteniendo en la pag si el usuario vuelve a entrar a la pag o la recarga y el banner
 
